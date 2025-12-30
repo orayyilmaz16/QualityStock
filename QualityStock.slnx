@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/QualityStock.Api/QualityStock.Api.csproj" />
+    <Project Path="src/QualityStock.Application/QualityStock.Application.csproj" />
+    <Project Path="src/QualityStock.Domain/QualityStock.Domain.csproj" />
+    <Project Path="src/QualityStock.Infrastructure/QualityStock.Infrastructure.csproj" />
+  </Folder>
+</Solution>
